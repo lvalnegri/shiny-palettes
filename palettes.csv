@@ -1,0 +1,260 @@
+package,type,name,title,max_cols
+core,DIVERGING,cm.colors,CM,20
+core,SEQUENTIAL,grey.colors,Grey,20
+core,SEQUENTIAL,heat.colors,Heat,20
+core,QUALITATIVE,rainbow,Rainbow,20
+core,DIVERGING,terrain.colors,Terrain,20
+core,SEQUENTIAL,topo.colors,Topography,20
+brewer,SEQUENTIAL,Blues,Blues,9
+brewer,SEQUENTIAL,BuGn,Blue-Green,9
+brewer,SEQUENTIAL,BuPu,Blue-Purple,9
+brewer,SEQUENTIAL,Greens,Greens,9
+brewer,SEQUENTIAL,GnBu,Green-Blue,9
+brewer,SEQUENTIAL,Greys,Greys,9
+brewer,SEQUENTIAL,Oranges,Oranges,9
+brewer,SEQUENTIAL,OrRd,Orange-Red,9
+brewer,SEQUENTIAL,Purples,Purples,9
+brewer,SEQUENTIAL,PuBu,Purple-Blue,9
+brewer,SEQUENTIAL,PuRd,Purple-Red,9
+brewer,SEQUENTIAL,PuBuGn,Purple-Blue-Green,9
+brewer,SEQUENTIAL,Reds,Reds,9
+brewer,SEQUENTIAL,RdPu,Red-Purple,9
+brewer,SEQUENTIAL,YlGn,Yellow-Green,9
+brewer,SEQUENTIAL,YlGnBu,Yellow-Green-Blue,9
+brewer,SEQUENTIAL,YlOrBr,Yellow-Orange-Brown,9
+brewer,SEQUENTIAL,YlOrRd,Yellow-Orange-Red,9
+brewer,DIVERGING,BrBG,Brown-Blue-Green,11
+brewer,DIVERGING,PuOr,Orange-Purple,11
+brewer,DIVERGING,PiYG,Pink-Blue-Green,11
+brewer,DIVERGING,PRGn,Purple-Red-Green,11
+brewer,DIVERGING,RdBu,Red-Blue,11
+brewer,DIVERGING,RdGy,Red-Grey,11
+brewer,DIVERGING,RdYlBu,Red-Yellow-Blue,11
+brewer,DIVERGING,RdYlGn,Red-Yellow-Green,11
+brewer,DIVERGING,Spectral,Spectral,11
+brewer,QUALITATIVE,Accent,Accent,8
+brewer,QUALITATIVE,Dark2,Dark2,8
+brewer,QUALITATIVE,Paired,Paired,12
+brewer,QUALITATIVE,Pastel1,Pastel1,9
+brewer,QUALITATIVE,Pastel2,Pastel2,8
+brewer,QUALITATIVE,Set1,Set1,9
+brewer,QUALITATIVE,Set2,Set2,8
+brewer,QUALITATIVE,Set3,Set3,12
+carto,DIVERGING,ArmyRose,Army Rose,7
+carto,DIVERGING,Earth,Earth,7
+carto,DIVERGING,Fall,Fall,7
+carto,DIVERGING,Geyser,Geyser,7
+carto,DIVERGING,TealRose,Teal Rose,7
+carto,DIVERGING,Temps,Temps,7
+carto,DIVERGING,Tropic,Tropic,7
+carto,QUALITATIVE,Antique,Antique,12
+carto,QUALITATIVE,Bold,Bold,12
+carto,QUALITATIVE,Pastel,Pastel,12
+carto,QUALITATIVE,Prism,Prism,12
+carto,QUALITATIVE,Safe,Safe,12
+carto,QUALITATIVE,Vivid,Vivid,12
+carto,SEQUENTIAL,BluGrn,Blu-Green,7
+carto,SEQUENTIAL,BluYl,Blu-Yellow,7
+carto,SEQUENTIAL,BrwnYl,Brown-Yellow,7
+carto,SEQUENTIAL,Burg,Burgundi,7
+carto,SEQUENTIAL,BurgYl,Burgundi-Yellow,7
+carto,SEQUENTIAL,DarkMint,Dark Mint,7
+carto,SEQUENTIAL,Emrld,Emrld,7
+carto,SEQUENTIAL,ag_GrnYl,Green-Yellow,7
+carto,SEQUENTIAL,Magenta,Magenta,7
+carto,SEQUENTIAL,Mint,Mint,7
+carto,SEQUENTIAL,OrYel,Orange-Yellow,7
+carto,SEQUENTIAL,Peach,Peach,7
+carto,SEQUENTIAL,PinkYl,Pink-Yellow,7
+carto,SEQUENTIAL,Purp,Purple,7
+carto,SEQUENTIAL,PurpOr,Purple-Orange,7
+carto,SEQUENTIAL,RedOr,Red-Orange,7
+carto,SEQUENTIAL,ag_Sunset,Sunset,7
+carto,SEQUENTIAL,Sunset,Sunset,7
+carto,SEQUENTIAL,SunsetDark,Sunset Dark,7
+carto,SEQUENTIAL,Teal,Teal,7
+carto,SEQUENTIAL,TealGrn,Teal-Green,7
+cartography,SEQUENTIAL,blue.pal,Blue,20
+cartography,SEQUENTIAL,brown.pal,Brown,20
+cartography,SEQUENTIAL,green.pal,Green,20
+cartography,SEQUENTIAL,grey.pal,Grey,20
+cartography,SEQUENTIAL,harmo.pal,Harmo,20
+cartography,SEQUENTIAL,kaki.pal,Kaki,20
+cartography,SEQUENTIAL,orange.pal,Orange,20
+cartography,SEQUENTIAL,pink.pal,Pink,20
+cartography,SEQUENTIAL,purple.pal,Purple,20
+cartography,SEQUENTIAL,red.pal,Red,20
+cartography,SEQUENTIAL,sand.pal,Sand,20
+cartography,SEQUENTIAL,taupe.pal,Taupe,20
+cartography,SEQUENTIAL,turquoise.pal,Turquoise,20
+cartography,SEQUENTIAL,wine.pal,Wine,20
+cartography,QUALITATIVE,pastel.pal,Pastel,20
+cartography,QUALITATIVE,multi.pal,Multi,20
+dichromat,,BluetoDarkOrange.18,Blue-DarkOrange,18
+dichromat,,BluetoGray.8,Blue-Gray,8
+dichromat,,BluetoGreen.14,Blue-Green,14
+dichromat,,BluetoOrange.12,Blue-Orange,12
+dichromat,,BluetoOrangeRed.14,Blue-Orange-Red,14
+dichromat,,BrowntoBlue.12,Brown-Blue,12
+dichromat,,Categorical.12,Categorical,12
+dichromat,,DarkRedtoBlue.18,DarkRed-Blue,18
+dichromat,,GreentoMagenta.16,Green-Magenta,16
+dichromat,SEQUENTIAL,LightBluetoDarkBlue.10,LightBlue-DarkBlue,10
+dichromat,SEQUENTIAL,SteppedSequential.5,Stepped Sequential,20
+ggsci,QUALITATIVE,aaas,AAAS,10
+ggsci,QUALITATIVE,d3,D3,20
+ggsci,QUALITATIVE,futurama,Futurama,12
+ggsci,QUALITATIVE,igv,IGV,20
+ggsci,QUALITATIVE,jama,JAMA,7
+ggsci,QUALITATIVE,jco,JCO,10
+ggsci,QUALITATIVE,lancet,Lancet,9
+ggsci,QUALITATIVE,locuszoom,LocusZoom,7
+ggsci,QUALITATIVE,nejm,NEJM,8
+ggsci,QUALITATIVE,npg,NPG,10
+ggsci,QUALITATIVE,rickandmorty,Rick and Morty,12
+ggsci,QUALITATIVE,simpsons,The Simpsons,16
+ggsci,QUALITATIVE,startrek,Star Trek,7
+ggsci,QUALITATIVE,tron,Tron Legacy,7
+ggsci,QUALITATIVE,uchicago,UChicago,9
+ggsci,QUALITATIVE,ucscgb,UCSCGB,20
+ggsci,DIVERGING,gsea,GSEA,12
+ggsci,SEQUENTIAL,material,amber,10
+ggsci,SEQUENTIAL,material,blue,10
+ggsci,SEQUENTIAL,material,blue-grey,10
+ggsci,SEQUENTIAL,material,brown,10
+ggsci,SEQUENTIAL,material,cyan,10
+ggsci,SEQUENTIAL,material,deep-orange,10
+ggsci,SEQUENTIAL,material,deep-purple,10
+ggsci,SEQUENTIAL,material,green,10
+ggsci,SEQUENTIAL,material,grey,10
+ggsci,SEQUENTIAL,material,indigo,10
+ggsci,SEQUENTIAL,material,light-blue,10
+ggsci,SEQUENTIAL,material,light-green,10
+ggsci,SEQUENTIAL,material,lime,10
+ggsci,SEQUENTIAL,material,orange,10
+ggsci,SEQUENTIAL,material,pink,10
+ggsci,SEQUENTIAL,material,purple,10
+ggsci,SEQUENTIAL,material,red,10
+ggsci,SEQUENTIAL,material,teal,10
+ggsci,SEQUENTIAL,material,yellow,10
+ghibli,QUALITATIVE,KikiDark,Kiki Dark,7
+ghibli,QUALITATIVE,KikiLight,Kiki Light,7
+ghibli,QUALITATIVE,KikiMedium,Kiki Medium,7
+ghibli,QUALITATIVE,LaputaDark,Laputa Dark,7
+ghibli,QUALITATIVE,LaputaLight,Laputa Light,7
+ghibli,QUALITATIVE,LaputaMedium,Laputa Medium,7
+ghibli,QUALITATIVE,MarnieDark1,Marnie Dark 1,7
+ghibli,QUALITATIVE,MarnieDark2,Marnie Dark 2,7
+ghibli,QUALITATIVE,MarnieLight1,Marnie Light 1,7
+ghibli,QUALITATIVE,MarnieLight2,Marnie Light 2,7
+ghibli,QUALITATIVE,MarnieMedium1,Marnie Medium 1,7
+ghibli,QUALITATIVE,MarnieMedium2,Marnie Medium 2,7
+ghibli,QUALITATIVE,MononokeDark,Mononoke Dark,7
+ghibli,QUALITATIVE,MononokeLight,Mononoke Light,7
+ghibli,QUALITATIVE,MononokeMedium,Mononoke Medium,7
+ghibli,QUALITATIVE,PonyoDark,Ponyo Dark,7
+ghibli,QUALITATIVE,PonyoLight,Ponyo Light,7
+ghibli,QUALITATIVE,PonyoMedium,Ponyo Medium,7
+ghibli,QUALITATIVE,SpiritedDark,Spirited Dark,7
+ghibli,QUALITATIVE,SpiritedLight,Spirited Light,7
+ghibli,QUALITATIVE,SpiritedMedium,Spirited Medium,7
+ghibli,QUALITATIVE,TotoroDark,Totoro Dark,7
+ghibli,QUALITATIVE,TotoroLight,Totoro Light,7
+ghibli,QUALITATIVE,TotoroMedium,Totoro Medium,7
+ghibli,QUALITATIVE,YesterdayDark,Yesterday Dark,7
+ghibli,QUALITATIVE,YesterdayLight,Yesterday Light,7
+ghibli,QUALITATIVE,YesterdayMedium,Yesterday Medium,7
+redmonder,DIVERGING,dPBIYlBu,dPBIYlBu,11
+redmonder,DIVERGING,dPBIYlPu,dPBIYlPu,11
+redmonder,DIVERGING,dPBIPuGn,dPBIPuGn,11
+redmonder,DIVERGING,dPBIPuOr,dPBIPuOr,11
+redmonder,DIVERGING,dPBIRdBu,dPBIRdBu,11
+redmonder,DIVERGING,dPBIRdGy,dPBIRdGy,11
+redmonder,DIVERGING,dPBIRdGn,dPBIRdGn,11
+redmonder,QUALITATIVE,qMSOStd,qMSOStd,10
+redmonder,QUALITATIVE,qMSO12,qMSO12,8
+redmonder,QUALITATIVE,qMSO15,qMSO15,8
+redmonder,QUALITATIVE,qMSOBuWarm,qMSOBuWarm,8
+redmonder,QUALITATIVE,qMSOBu,qMSOBu,8
+redmonder,QUALITATIVE,qMSOBu2,qMSOBu2,8
+redmonder,QUALITATIVE,qMSOBuGn,qMSOBuGn,8
+redmonder,QUALITATIVE,qMSOGn,qMSOGn,8
+redmonder,QUALITATIVE,qMSOGnYl,qMSOGnYl,8
+redmonder,QUALITATIVE,qMSOYl,qMSOYl,8
+redmonder,QUALITATIVE,qMSOYlOr,qMSOYlOr,8
+redmonder,QUALITATIVE,qMSOOr,qMSOOr,8
+redmonder,QUALITATIVE,qMSOOrRd,qMSOOrRd,8
+redmonder,QUALITATIVE,qMSORdOr,qMSORdOr,8
+redmonder,QUALITATIVE,qMSORd,qMSORd,8
+redmonder,QUALITATIVE,qMSORdPu,qMSORdPu,8
+redmonder,QUALITATIVE,qMSOPu,qMSOPu,8
+redmonder,QUALITATIVE,qMSOPu2,qMSOPu2,8
+redmonder,QUALITATIVE,qMSOMed,qMSOMed,8
+redmonder,QUALITATIVE,qMSOPap,qMSOPap,8
+redmonder,QUALITATIVE,qMSOMrq,qMSOMrq,8
+redmonder,QUALITATIVE,qMSOSlp,qMSOSlp,8
+redmonder,QUALITATIVE,qMSOAsp,qMSOAsp,8
+redmonder,QUALITATIVE,qPBI,qPBI,8
+redmonder,SEQUENTIAL,sPBIGn,sPBIGn,9
+redmonder,SEQUENTIAL,sPBIGy1,sPBIGy1,9
+redmonder,SEQUENTIAL,sPBIRd,sPBIRd,9
+redmonder,SEQUENTIAL,sPBIYl,sPBIYl,9
+redmonder,SEQUENTIAL,sPBIGy2,sPBIGy2,9
+redmonder,SEQUENTIAL,sPBIBu,sPBIBu,9
+redmonder,SEQUENTIAL,sPBIOr,sPBIOr,9
+redmonder,SEQUENTIAL,sPBIPu,sPBIPu,9
+redmonder,SEQUENTIAL,sPBIYlGn,sPBIYlGn,9
+redmonder,SEQUENTIAL,sPBIRdPu,sPBIRdPu,9
+scico,DIVERGING,berlin,berlin,20
+scico,SEQUENTIAL,bilbao,bilbao,20
+scico,DIVERGING,broc,broc,20
+scico,DIVERGING,cork,cork,20
+scico,SEQUENTIAL,davos,davos,20
+scico,SEQUENTIAL,devon,devon,20
+scico,SEQUENTIAL,grayC,grayC,20
+scico,SEQUENTIAL,lajolla,lajolla,20
+scico,SEQUENTIAL,lapaz,lapaz,20
+scico,SEQUENTIAL,lisbon,lisbon,20
+scico,DIVERGING,oleron,oleron,20
+scico,SEQUENTIAL,oslo,oslo,20
+scico,DIVERGING,roma,roma,20
+scico,DIVERGING,tofino,tofino,20
+scico,SEQUENTIAL,tokyo,tokyo,20
+scico,SEQUENTIAL,turku,turku,20
+scico,DIVERGING,vik,vik,20
+tol,QUALITATIVE,bright,bright,7
+tol,QUALITATIVE,vibrant,vibrant,7
+tol,QUALITATIVE,muted,muted,9
+tol,QUALITATIVE,pale,pale,6
+tol,QUALITATIVE,dark,dark,6
+tol,QUALITATIVE,light,light,9
+tol,QUALITATIVE,ground cover,ground cover,14
+tol,DIVERGING,sunset,sunset,20
+tol,DIVERGING,BuRd,BuRd,20
+tol,DIVERGING,PRGn,PRGn,20
+tol,SEQUENTIAL,YlOrBr,YlOrBr,20
+tol,SEQUENTIAL,discrete rainbow,discrete rainbow,20
+tol,SEQUENTIAL,smooth rainbow,smooth rainbow,20
+viridis,SEQUENTIAL,viridis,viridis,20
+viridis,SEQUENTIAL,inferno,inferno,20
+viridis,SEQUENTIAL,magma,magma,20
+viridis,SEQUENTIAL,plasma,plasma,20
+wesanderson,QUALITATIVE,BottleRocket1,Bottle Rocket 1,7
+wesanderson,QUALITATIVE,BottleRocket2,Bottle Rocket 2,5
+wesanderson,QUALITATIVE,Cavalcanti1,Cavalcanti 1,5
+wesanderson,QUALITATIVE,Chevalier1,Chevalier 1,4
+wesanderson,QUALITATIVE,Darjeeling1,Darjeeling 1,5
+wesanderson,QUALITATIVE,Darjeeling2,Darjeeling 2,5
+wesanderson,QUALITATIVE,FantasticFox1,Fantastic Fox 1,5
+wesanderson,QUALITATIVE,GrandBudapest1,Grand Budapest 1,4
+wesanderson,QUALITATIVE,GrandBudapest2,Grand Budapest 2,4
+wesanderson,QUALITATIVE,IsleofDogs1,Isle Of Dogs 1,6
+wesanderson,QUALITATIVE,IsleofDogs2,Isle Of Dogs 2,5
+wesanderson,QUALITATIVE,Moonrise1,Moonrise 1,4
+wesanderson,QUALITATIVE,Moonrise2,Moonrise 2,4
+wesanderson,QUALITATIVE,Moonrise3,Moonrise 3,5
+wesanderson,QUALITATIVE,Royal1,Royal 1,4
+wesanderson,QUALITATIVE,Royal2,Royal 2,5
+wesanderson,QUALITATIVE,Rushmore,Rushmore,5
+wesanderson,QUALITATIVE,Rushmore1,Rushmore1,5
+wesanderson,QUALITATIVE,Zissou1,Zissou 1,5
