@@ -1,1 +1,32 @@
-# shiny-palettes
+## shiny-palettes
+
+### Included packages
+
+  - [R core](https://cran.r-project.org/web/packages/RGraphics/index.html)
+  - [cartography](https://github.com/riatelab/cartography)
+  - [dichromat](https://cran.r-project.org/web/packages/dichromat/index.html)
+  - [ggsci](https://github.com/road2stat/ggsci)
+  - [ggpomological](https://github.com/gadenbuie/ggpomological)
+  - [ggthemes](https://github.com/jrnold/ggthemes)
+  - [ghibli](https://github.com/ewenme/ghibli)
+  - [inlmisc](https://github.com/USGS-R/inlmisc)
+  - [jcolors](https://github.com/jaredhuling/jcolors)
+  - [LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR)
+  - [NineteenEightyR](https://github.com/m-clark/NineteenEightyR)
+  - [nord](https://github.com/jkaupp/nord)
+  - [oompaBase](https://cran.r-project.org/web/packages/oompaBase/index.html)
+  - [ochRe](https://github.com/ropenscilabs/ochRe)
+  - [palettetown](https://github.com/timcdlucas/palettetown)
+  - [palr](https://github.com/AustralianAntarcticDivision/palr)
+  - [pals](https://github.com/kwstat/pals)
+  - [Polychrome](https://cran.r-project.org/web/packages/Polychrome/index.html)
+  - [quickpalette](https://github.com/EmilHvitfeldt/quickpalette)
+  - [rcartocolor](https://github.com/Nowosad/rcartocolor)
+  - [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html)
+  - [Redmonder](https://cran.r-project.org/web/packages/Redmonder/index.html)
+  - [scico](https://github.com/thomasp85/scico)
+  - [viridis](https://github.com/sjmgarnier/viridis)
+  - [visibly](https://github.com/m-clark/visibly)
+  - [wesanderson](https://github.com/karthik/wesanderson)
+  - [yarrr](https://github.com/ndphillips/yarrr)
+ 
